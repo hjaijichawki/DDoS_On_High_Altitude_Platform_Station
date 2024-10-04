@@ -34,16 +34,10 @@ To run this simulation, you'll need:
 
 ## Running the Simulation
 
-1. Open OMNeT++ and import the project.
-2. Ensure that OMNeT++ is properly configured, and build the project.
-
-### Running the Simulation
-
-1. Open the project in OMNeT++.
+1. Ensure that OMNeT++ is properly configured.
+2. Open OMNeT++ and import the project.
 2. Adjust the `omnetpp.ini` file to set your preferred parameters.
-3. Run the simulation by choosing the appropriate configuration from `omnetpp.ini`.
-
-### Key Parameters
+3. Run the simulation by choosing the appropriate configuration from `omnetpp.ini`, and build the project.
 
 You can adjust these in `omnetpp.ini`:
 
