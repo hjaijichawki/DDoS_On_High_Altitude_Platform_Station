@@ -31,13 +31,6 @@ To run this simulation, you'll need:
 - [OMNeT++](https://omnetpp.org) (a discrete event simulator).
 - Optionally, [INET Framework](https://inet.omnetpp.org) for extended networking functionalities.
 
-## Installation
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/aerial-network-simulation.git
-   cd aerial-network-simulation
 
 ## Running the Simulation
 
